@@ -9,3 +9,5 @@ for x in lista_zakupów:
     if isinstance(lista_zakupów[x], list):
         count += len(lista_zakupów[x])
 print('W sumie kupuję', count, 'produktów')
+
+# specjalne pozdrowionka
